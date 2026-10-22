@@ -1,0 +1,8 @@
+.header {
+  position: sticky;
+  top: 0;
+  background-color: var(--bs-purple);
+  color: var(--bs-white);
+  z-index: 10;
+  box-shadow: var(--bs-box-shadow-sm);
+}
