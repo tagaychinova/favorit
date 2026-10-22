@@ -32,7 +32,7 @@ function App() {
 
   return (
     <>
-      <SearchPanel className="mb-3" />
+      <SearchPanel className="mb-5" />
 
       {showSpinner && (
         <section className="d-flex align-items-center gap-3 m-2">
